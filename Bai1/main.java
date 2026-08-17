@@ -1,6 +1,6 @@
 package Bai1;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         String name = "To Nguyen Tuan Yen";
         int age = 21;
